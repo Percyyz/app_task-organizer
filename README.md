@@ -6,3 +6,19 @@ Una de las principales razones de esta dificultad es la falta de integración fl
 
 ## SOLUCION
 Crear una aplicación de gestión de tareas diseñada para abordar los desafíos de organización y productividad que enfrentan muchas personas en su vida diaria. Al ofrecer una solución todo en uno, TaskOrganizer no solo ayuda a los usuarios a planificar y realizar un seguimiento de sus tareas, sino que también se integra perfectamente con otras herramientas y plataformas que utilizan a diario.
+
+## CASOS DE USO 
+- Los usuarios podran registrarse o iniciar sesion en al app.
+- Los usuarios podran organizar sus tareas de una manera facil y eficiente.
+- Los usuarios podran personalizar algunos ajustes de la app de acuerdo a sus gustos.
+- Los usuarios podran añadir tareas pendientes como tambien eliminar una vez cumplidas.
+- Los usuarios podran dejar sus comentarios o recomendaciones sebre la app.
+
+## TECNOLOGIAS O HERRAMIENTAS PARA USAR 
+- PYTHON --> Esta herramienta estoy utilizando para hecer la documentacioncorrespondiente
+de mi app, como tambien para crear la logica de mi app y crear la interfaz del usuario. 
+- TODOIST --> Con esta herramienta organizare mis ideas como tambien me asignare tareas 
+con fechas especificas para cumplirlas.
+- FIGMA --> Esta herramienta nos sirve para crear diseño de interfaces, para cunstruir 
+prototipos funcionales (para simular la interaccion del usuario con la interfaz).
+
