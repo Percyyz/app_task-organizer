@@ -19,6 +19,12 @@ Crear una aplicación de gestión de tareas diseñada para abordar los desafíos
 de mi app, como tambien para crear la logica de mi app y crear la interfaz del usuario. 
 - TODOIST --> Con esta herramienta organizare mis ideas como tambien me asignare tareas 
 con fechas especificas para cumplirlas.
+
+Como tambien te dejare el link de TODOIST https://app.todoist.com/app/project/proyecto-2342131177
 - FIGMA --> Esta herramienta nos sirve para crear diseño de interfaces, para cunstruir 
 prototipos funcionales (para simular la interaccion del usuario con la interfaz).
+
+- LENGUAJE DE PROGRAMACION-->La tecnología de lenguaje de programación es fundamental en el 
+desarrollo de aplicaciones, ya que permite crear la lógica y funcionalidad de la app, así como 
+diseñar la forma en que esta interactúa con el usuario y otros sistemas.
 
