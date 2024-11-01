@@ -31,8 +31,8 @@ diseñar la forma en que esta interactúa con el usuario y otros sistemas.
 ## DIAGRAMA DE CASOS DE USO
 Sirve para representar las funcionalidades o "casos de uso" que el sistema debe ofrecer a los usuarios (también llamados "actores").
 ### ACTORES:
-casos de uso ACTOR: usuario.
+casos de uso ACTOR: usuario
 ![alt text](<Captura de pantalla 2024-10-30 151633.png>)
 
-caos de uso ACTOR: administrador.
+casos de uso ACTOR: administrador.
 ![alt text](<Captura de pantalla 2024-10-30 161122.png>)
